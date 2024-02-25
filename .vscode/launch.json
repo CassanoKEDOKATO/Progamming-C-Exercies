@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/VKU_Workspace_Session2_Year3/LẬP TRÌNH C++/BT_C++/As_01",
-      "program": "e:/VKU_Workspace_Session2_Year3/LẬP TRÌNH C++/BT_C++/As_01/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
